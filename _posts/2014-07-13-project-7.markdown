@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: submarine.png
+alt: image-alt
+project-date: January 2013 - August 2013
+client: Nimap Infotech
+position: Application Developer
+location: Mumbai, India
+description: • Transformed the look, feel and experience of the game related to traffic control. 
+• As creativity is an important aspect of game development, I came up with the idea of implementing double tap and swipe to increase speed as a bonus and adding a power in the form of a rocket to avoid accidents.
+
+---
