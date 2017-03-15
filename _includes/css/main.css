@@ -498,7 +498,7 @@ footer .footer-below {
 }
 
 .grid-block {
-    
-    padding: 50px 50px;
+    padding-right: 80px;
+    padding-left: 80px;
     margin: 10px 0;
 }
