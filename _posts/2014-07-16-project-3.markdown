@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: atk.png
+img: atk.svg
 alt: image-alt
 project-date: August 2016 - December 2016
 client: A.T. Kearney
