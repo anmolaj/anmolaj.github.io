@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-10
+img: amb.png
+alt: image-alt
+project-date: January 2017 - Present
+client: Project Amber
+position: Independent Study
+location: Pittsburgh, USA
+description: Developing a framework to scrape .gov websites and perform link analysis and text analysis to understad how Administration changes affecte the information available to public.
+
+---

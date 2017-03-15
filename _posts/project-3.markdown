@@ -1,12 +1,13 @@
 ---
 layout: default
-modal-id: 1
-date: March - 2017
-img: pia.svg
+modal-id: 5
+date: 2014-06-3
+img: gd.png
 alt: image-alt
-project-date: March 2017 - Present
-client: Pittsburgh International Airport
-Position: Graduate Research assistant
+project-date: April 2016 - June 2016
+client: Giesecke & Devrient
+location: Singapore
+position: Market Research Analyst Intern 
 description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
 
 ---
