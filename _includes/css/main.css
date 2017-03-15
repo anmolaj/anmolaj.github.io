@@ -466,7 +466,7 @@ footer .footer-below {
     border-radius: 5px;
     text-align: right;
     position: relative;
-    background: #63A4B5;
+    background: #18bc9c;
     box-shadow: none;
 }
 
@@ -494,5 +494,5 @@ footer .footer-below {
 }
 
 .list-skills li:nth-child(even) .progress-bar {
-    background: #4B6F78;
+    background: #18bc9c;
 }
