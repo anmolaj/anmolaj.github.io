@@ -8,6 +8,6 @@ project-date: January 2017 - Present
 client: Project Amber
 position: Independent Study
 location: Pittsburgh, USA
-description: Developing a framework to scrape .gov websites and perform link analysis and text analysis to understad how Administration changes affecte the information available to public.
+description: Developing a framework to scrape .gov websites and perform link analysis and text analysis to understad how Administration changes affect the information available to public.
 
 ---
