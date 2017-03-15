@@ -5,11 +5,10 @@ date: 2014-07-15
 img: ags.png
 alt: image-alt
 project-date: July 2014 - October 2014
-client: Start Bootstrap
+client: AGS
 position: Business Analyst Intern
 location: Mumbai, India
-description: •	Developed business model based on a feasibility study for the White Label ATM (WLA) Project
-•	Analyzed the market scenario based on numerous parameters (e.g. location, footfalls and number of ATMs, etc.)
+description: •	Developed business model based on a feasibility study for the White Label ATM (WLA) Project •Analyzed the market scenario based on numerous parameters (e.g. location, footfalls and number of ATMs, etc.)
 Created dashboards to monitor business opportunities of WLA in Mumbai, India
 
 ---
