@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: db.png
 alt: image-alt
 project-date: August 2016 - December 2016
 client: Database Management
