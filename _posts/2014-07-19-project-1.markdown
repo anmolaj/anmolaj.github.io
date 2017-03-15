@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 8
+date: March - 2017
+img: hpe.png
+alt: image-alt
+project-date: January 2017 - Present
+client: Hewlett Packard Enterprise
+position: Student Consultant
+description: As a part of Measuring Social, assisting HPE to determine strategies to increase their web traffic and improve market penetration.
+
+---
