@@ -496,3 +496,9 @@ footer .footer-below {
 .list-skills li:nth-child(even) .progress-bar {
     background: #18bc9c;
 }
+
+.grid-block {
+    
+    padding: 15px 25px;
+    margin: 10px 0;
+}
