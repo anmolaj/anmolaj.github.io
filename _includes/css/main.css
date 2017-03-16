@@ -541,7 +541,7 @@ footer .footer-below {
 .dropdown-content a:hover {background-color: #f1f1f1}
 
 /* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
+.page-scroll:hover .dropdown-content {
     display: block;
 }
 
