@@ -507,6 +507,7 @@ footer .footer-below {
 
 /* Dropdown Button */
 .dropbtn {
+    padding: 16px;
     color: white;
     border: none;
     cursor: pointer;
