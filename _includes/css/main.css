@@ -507,12 +507,19 @@ footer .footer-below {
 
 /* Dropdown Button */
 .dropbtn {
-    
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
     cursor: pointer;
 }
 
 /* The container <div> - needed to position the dropdown content */
-
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
